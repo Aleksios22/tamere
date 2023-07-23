@@ -315,7 +315,7 @@ var Game = (function(){
 
         winning: function () {
             setTimeout(function () {
-                var str = "已完成，确定再来一局吗？";
+                var str = "Bravo Madamichoune! Prochaine énygme: plat typiquement Canadien";
                 alert(str);
                 location.reload();
             }, 50);
