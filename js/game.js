@@ -315,7 +315,7 @@ var Game = (function(){
 
         winning: function () {
             setTimeout(function () {
-                var str = "Bravo Madamichoune! Prochaine énygme: plat typiquement Canadien";
+                var str = "Bravo! Vous avez du skill solide, aventurier! Comme on dit par chez nous, Füße von Rüsselsäugetieren";
                 alert(str);
                 location.reload();
             }, 50);
